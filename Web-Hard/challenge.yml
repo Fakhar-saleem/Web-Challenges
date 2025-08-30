@@ -1,5 +1,5 @@
 
-connection_info: http://localhost:62033
+connection_info: http://localhost:8080
 flags:
     # A static case sensitive flag
     - Blacky6{Hurrah_You_GoT_ThE_G@me_sStI}
