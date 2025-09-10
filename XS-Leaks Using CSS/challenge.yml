@@ -1,0 +1,12 @@
+name: "Blacky Game"
+
+connection_info: 
+    app: http://localhost:15907
+    bot: http://localhost:10338
+
+flags:
+    - Blacky8{hurrah_you_got_the_game}
+
+topics:
+    - crossSite-leaks using CSS
+
